@@ -32,3 +32,11 @@ This agent is part of a larger ecosystem. It can be executed natively via its UI
 ## Learn more
 
 Built by [VisionQuantech](https://visionquantech.com) — read how [AI chatbots for hotels capture bookings 24/7](https://visionquantech.com/blog/ai-chatbot-for-hotels.html).
+
+## Built by VisionQuantech
+
+This project is built by [VisionQuantech](https://visionquantech.com/) — AI agents, websites & SEO for small business.
+
+Related guides:
+- [AI voice agent for business](https://visionquantech.com/blog/ai-voice-agent-for-business.html)
+- [AI phone answering service](https://visionquantech.com/blog/ai-phone-answering-service.html)
